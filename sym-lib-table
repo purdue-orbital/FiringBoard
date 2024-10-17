@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Wago2")(type "KiCad")(uri "${KIPRJMOD}/wago2.kicad_sym")(options "")(descr ""))
+  (lib (name "Ethernet")(type "KiCad")(uri "${KIPRJMOD}/ethernet.kicad_sym")(options "")(descr ""))
+)
